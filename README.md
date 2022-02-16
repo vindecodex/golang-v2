@@ -4,3 +4,5 @@
 				<img alt="GitHub go.mod Go version" src="https://img.shields.io/github/go-mod/go-version/vindecodex/golang-v2?style=flat-square">
 </div>
 
+### Licensing
+This project is under [MIT License](./LICENSE)
